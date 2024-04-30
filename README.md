@@ -1,30 +1,46 @@
 # Used Commands
 
 npx react-native@latest init FunWithFlags --pm npm
-npm install redux react-redux @reduxjs/toolkit
-npm install react-native-screens@3.29.0
-npm install react-native-safe-area-context
-npm install react-native-vector-icons
-npm install react-native-country-flag
-npm install nativewind
-npm install --dev tailwindcss@3.3.2
-npx tailwindcss init
-npx tailwindcss build
-npm install @react-navigation/native
-npm install react-native-screens react-native-safe-area-context
-npm install @react-navigation/material-top-tabs react-native-tab-view
-npm install react-native-pager-view
-npm install react-native-linear-gradient
-npm install --save-dev @types/react-native-vector-icons
-npm install -g react-native-rename
-npx react-native-rename "Fun With Flags" -b react.native.top
 
+npm install redux react-redux @reduxjs/toolkit
+
+npm install react-native-screens@3.29.0
+
+npm install react-native-safe-area-context
+
+npm install react-native-vector-icons
+
+npm install react-native-country-flag
+
+npm install nativewind
+
+npm install --dev tailwindcss@3.3.2
+
+npx tailwindcss init
+
+npx tailwindcss build
+
+npm install @react-navigation/native
+
+npm install react-native-screens react-native-safe-area-context
+
+npm install @react-navigation/material-top-tabs react-native-tab-view
+
+npm install react-native-pager-view
+
+npm install react-native-linear-gradient
+
+npm install --save-dev @types/react-native-vector-icons
+
+npm install -g react-native-rename
+
+npx react-native-rename "Fun With Flags" -b react.native.top
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+> **Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
 ## Step 1: Start the Metro Server
 
